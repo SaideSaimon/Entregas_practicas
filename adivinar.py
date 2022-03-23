@@ -2,7 +2,7 @@
 # Adivina adivinador....
 import random
 
-numero_aleatorio = random.randrange(5)
+numero_aleatorio = random.randrange(101)
 gane = False
 print("Tenés 3 intentos para adivinar un entre 0 y 99")
 intento = 1
